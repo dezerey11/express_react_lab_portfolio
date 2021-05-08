@@ -1,12 +1,12 @@
 [
   {
-    "name": "Project 1",
+    "name": "Matching Game",
     "live": "https://dezerey11.github.io/SEIR-Project1/",
     "git": "https://github.com/dezerey11/SEIR-Project1",
     "image": "https://i.imgur.com/vBnqdzP.png"
   },
   {
-    "name": "Project 2",
+    "name": "Inspiration App",
     "live": "https://seir-project2-inspirationapp.herokuapp.com/",
     "git": "https://github.com/dezerey11/ejs-express-project2",
     "image": "https://i.imgur.com/HpQF6PX.png"

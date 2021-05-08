@@ -1,12 +1,12 @@
 [
   {
-    "name": "project1",
+    "name": "Project 1",
     "live": "https://dezerey11.github.io/SEIR-Project1/",
     "git": "https://github.com/dezerey11/SEIR-Project1",
     "image": "https://i.imgur.com/vBnqdzP.png"
   },
   {
-    "name": "project2",
+    "name": "Project 2",
     "live": "https://seir-project2-inspirationapp.herokuapp.com/",
     "git": "https://github.com/dezerey11/ejs-express-project2",
     "image": "https://i.imgur.com/HpQF6PX.png"
